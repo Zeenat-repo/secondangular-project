@@ -4,13 +4,12 @@
   "description": "Demonstration of a text search with highlighting in Angular 8",
   "author": {
     "name": "Zeenat Pervin",
-    "url": "https://github.com/Zeenat-repo/myangular-project",
-    "github": "https://github.com/Zeenat-repo/myangular-project"
+    "github": "https://github.com/Zeenat-repo/secondangular-project"
   },
   "contributors": [
     {
       "name": "Zeenat Pervin",
-      "url": "https://github.com/Zeenat-repo/myangular-project"
+      "url": "https://github.com/Zeenat-repo/secondangular-project"
     }
   ],
   "license": "MIT",
